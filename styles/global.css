@@ -39,6 +39,10 @@ h1{
 h3{
     font-style: italic;
 }
+ul{
+    border: #32363F solid 3px;
+
+}
 
 main {
     overflow-y: auto;
