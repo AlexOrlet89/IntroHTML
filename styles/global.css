@@ -39,6 +39,7 @@ h1{
 }
 h3{
     font-style: italic;
+    
 }
 ul{
     border: #32363F solid 3px;
@@ -49,7 +50,9 @@ p{
     font-style: italic;
     font-size: 20px;
 }
-
+p:hover{
+    font-weight: bold;
+}
 main {
     border: solid 3px blueviolet;
     overflow-y: auto;
