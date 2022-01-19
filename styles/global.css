@@ -44,6 +44,11 @@ ul{
     border: #32363F solid 3px;
 
 }
+p{
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+}
 
 main {
     border: solid 3px blueviolet;
